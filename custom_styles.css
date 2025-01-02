@@ -1,0 +1,28 @@
+
+    body {
+            font-family: 'Arial', sans-serif;
+        }
+    .navbar {
+            background-color: #f8f9fa;
+        }
+    .hero-section {
+            background-color: #e9ecef;
+            padding: 100px 0;
+            text-align: center;
+        }
+    .section-title {
+            margin-bottom: 50px;
+        }
+    .project-card {
+            margin-bottom: 30px;
+            transition: transform 0.3s ease;
+        }
+    .project-card:hover {
+            transform: scale(1.05);
+        }
+    footer {
+            background-color: #343a40;
+            color: white;
+            padding: 20px 0;
+        }
+    
